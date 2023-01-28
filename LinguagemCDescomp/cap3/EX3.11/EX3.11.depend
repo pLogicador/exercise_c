@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667563478 source:c:\users\edvaldo miranda\desktop\aprendendolingc\linguagemc\ex3.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

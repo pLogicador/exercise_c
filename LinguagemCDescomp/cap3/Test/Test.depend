@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1667495442 source:c:\users\edvaldo miranda\desktop\aprendendolingc\linguagemc\test\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
